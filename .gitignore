@@ -1,4 +1,5 @@
-*.uvguix
+*.uvoptx
+*.User
 *.uvprojx
 RTE/
 Objects/
